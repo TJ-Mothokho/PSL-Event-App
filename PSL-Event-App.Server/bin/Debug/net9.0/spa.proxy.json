@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:58369",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\Projects\\Asp.Net Web Api\\PSL-Event-App\\PSL-Event-App.Server\\..\\psl-event-app.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

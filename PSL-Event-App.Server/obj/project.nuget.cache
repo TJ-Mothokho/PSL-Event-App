@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5oSslwaHumw=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Asp.Net Web Api\\PSL-Event-App\\PSL-Event-App.Server\\PSL-Event-App.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TSHIAMO\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\TSHIAMO\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\9.0.3\\microsoft.aspnetcore.spaproxy.9.0.3.nupkg.sha512",
+    "C:\\Users\\TSHIAMO\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

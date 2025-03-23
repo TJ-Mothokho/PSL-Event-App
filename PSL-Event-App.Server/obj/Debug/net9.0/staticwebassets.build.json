@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "1M/+3OthQ7H4qYxq/0YmNwpuyEwgQ1Of7VRKvGmmVDk=",
+  "Source": "PSL-Event-App.Server",
+  "BasePath": "_content/PSL-Event-App.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Projects\\Asp.Net Web Api\\PSL-Event-App\\psl-event-app.client\\psl-event-app.client.esproj",
+      "Version": 2,
+      "Source": "psl-event-app.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

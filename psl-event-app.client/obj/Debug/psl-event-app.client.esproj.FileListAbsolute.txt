@@ -1,0 +1,1 @@
+D:\Projects\Asp.Net Web Api\PSL-Event-App\psl-event-app.client\obj\Debug\psl-event-app.client.esproj.CoreCompileInputs.cache
